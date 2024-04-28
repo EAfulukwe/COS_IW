@@ -94,12 +94,12 @@ def updateSpins():
 
 def updateSpecificJump():
     folder = 'Jumps'
-    makeUpdate(folder, 'Video4_LLJIV.csv')
+    makeUpdate(folder, 'Video4_LLJ.csv')
 
 # Defining main function 
 def main(): 
     updateJumps()
-    # updateSpins()
+    updateSpins()
     # updateSpecificJump() 
   
   
